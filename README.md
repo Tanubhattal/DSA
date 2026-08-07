@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tanubhattal/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Tanubhattal/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Tanubhattal/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanubhattal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanubhattal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Tanubhattal/DSA/tree/master/0724-find-pivot-index) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tanubhattal/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Tanubhattal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanubhattal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanubhattal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanubhattal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanubhattal/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Tanubhattal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanubhattal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Tanubhattal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Tanubhattal/DSA/tree/master/3731-find-missing-elements) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanubhattal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Tanubhattal/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tanubhattal/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanubhattal/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Tanubhattal/DSA/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Tanubhattal/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
