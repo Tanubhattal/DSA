@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanubhattal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanubhattal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanubhattal/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanubhattal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanubhattal/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Tanubhattal/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Tanubhattal/DSA/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanubhattal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
