@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tanubhattal/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Tanubhattal/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Tanubhattal/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanubhattal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Tanubhattal/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tanubhattal/DSA/tree/master/1140-stone-game-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanubhattal/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanubhattal/DSA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Tanubhattal/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Tanubhattal/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tanubhattal/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Tanubhattal/DSA/tree/master/1510-stone-game-iv) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tanubhattal/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Tanubhattal/DSA/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Tanubhattal/DSA/tree/master/0933-number-of-recent-calls) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Tanubhattal/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
