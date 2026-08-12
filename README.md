@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tanubhattal/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanubhattal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Tanubhattal/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tanubhattal/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Tanubhattal/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Tanubhattal/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tanubhattal/DSA/tree/master/0075-sort-colors) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanubhattal/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Tanubhattal/DSA/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanubhattal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanubhattal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanubhattal/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tanubhattal/DSA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Tanubhattal/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tanubhattal/DSA/tree/master/1140-stone-game-ii) |
