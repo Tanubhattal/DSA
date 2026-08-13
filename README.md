@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Tanubhattal/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Tanubhattal/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tanubhattal/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Tanubhattal/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Tanubhattal/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanubhattal/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanubhattal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tanubhattal/DSA/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tanubhattal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tanubhattal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tanubhattal/DSA/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tanubhattal/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
