@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanubhattal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Tanubhattal/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Tanubhattal/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanubhattal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanubhattal/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Tanubhattal/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanubhattal/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tanubhattal/DSA/tree/master/0070-climbing-stairs) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanubhattal/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Tanubhattal/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tanubhattal/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanubhattal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanubhattal/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tanubhattal/DSA/tree/master/0509-fibonacci-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanubhattal/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
