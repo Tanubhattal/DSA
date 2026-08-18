@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Tanubhattal/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Tanubhattal/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Tanubhattal/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Tanubhattal/DSA/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tanubhattal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tanubhattal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanubhattal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Tanubhattal/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Tanubhattal/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanubhattal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanubhattal/DSA/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
