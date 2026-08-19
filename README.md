@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tanubhattal/DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Tanubhattal/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tanubhattal/DSA/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Tanubhattal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanubhattal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Tanubhattal/DSA/tree/master/1563-stone-game-v) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanubhattal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Tanubhattal/DSA/tree/master/0078-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/Tanubhattal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tanubhattal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tanubhattal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanubhattal/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanubhattal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tanubhattal/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanubhattal/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1386-cinema-seat-allocation](https://github.com/Tanubhattal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanubhattal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanubhattal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tanubhattal/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Tanubhattal/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Tanubhattal/DSA/tree/master/0455-assign-cookies) |
+| [1386-cinema-seat-allocation](https://github.com/Tanubhattal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanubhattal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanubhattal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
