@@ -372,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tanubhattal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tanubhattal/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
