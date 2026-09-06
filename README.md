@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tanubhattal/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Tanubhattal/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Tanubhattal/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/Tanubhattal/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanubhattal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanubhattal/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanubhattal/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tanubhattal/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Tanubhattal/DSA/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Tanubhattal/DSA/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tanubhattal/DSA/tree/master/0509-fibonacci-number) |
