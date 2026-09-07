@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tanubhattal/DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Tanubhattal/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Tanubhattal/DSA/tree/master/0242-valid-anagram) |
+| [0940-distinct-subsequences-ii](https://github.com/Tanubhattal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Tanubhattal/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanubhattal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanubhattal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Tanubhattal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tanubhattal/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Tanubhattal/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Tanubhattal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Tanubhattal/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Tanubhattal/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Tanubhattal/DSA/tree/master/1563-stone-game-v) |
