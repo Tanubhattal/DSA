@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tanubhattal/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Tanubhattal/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tanubhattal/DSA/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Tanubhattal/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Tanubhattal/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tanubhattal/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Tanubhattal/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -429,5 +430,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Tanubhattal/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanubhattal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
