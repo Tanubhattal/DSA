@@ -8,7 +8,7 @@ public:
         if (base == 0) {
             return 1;
         }
-
+ 
         ll half = findPower(a, base / 2);
         ll result = (half * half) % MOD;
         if (base % 2 == 1) {
